@@ -1,10 +1,7 @@
 = Codility Lesson 6.Sorting 
 
- 
 
-== https://github.com/sunilsoni/Codility-Practice/tree/master/src/main/java/com/codility/lessons/Sorting[Solutions to Lesson 6: Sorting]
-
-* https://github.com/sunilsoni/Codility-Practice/blob/master/src/main/java/com/codility/lessons/Sorting/Distinct.java[*Distinct:*] Compute number of distinct values in an array.
+* https://github.com/AlbertoRSN/Codility-Lessons/blob/master/Distinct.cs[*Distinct:*] Compute number of distinct values in an array.
 
 
 Write a function
