@@ -31,7 +31,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 
 
-* https://github.com/sunilsoni/Codility-Practice/blob/master/src/main/java/com/codility/lessons/Sorting/Triangle.java[*Triangle:*] Determine whether a triangle can be built from a given set of edges.
+* https://github.com/AlbertoRSN/Codility-Lessons/blob/master/Triangle.cs[*Triangle:*] Determine whether a triangle can be built from a given set of edges.
 
 A zero-indexed array A consisting of N integers is given. A triplet (P, Q, R) is triangular if 0 ≤ P < Q < R < N and:
 [source,java]
@@ -80,7 +80,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 
 
-* https://github.com/sunilsoni/Codility-Practice/blob/master/src/main/java/com/codility/lessons/Sorting/MaxProductOfThree.java[*MaxProductOfThree:*] Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
+* https://github.com/AlbertoRSN/Codility-Lessons/blob/master/MaxProductOfThree.cs[*MaxProductOfThree:*] Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
 A non-empty zero-indexed array A consisting of N integers is given. The product of triplet (P, Q, R) equates to A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).
 
@@ -133,7 +133,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 
 
-* https://github.com/sunilsoni/Codility-Practice/blob/master/src/main/java/com/codility/lessons/Sorting/NumberOfDiscIntersections.java[*Number Of Disc Intersections:*] Compute the number of intersections in a sequence of discs.
+Compute the number of intersections in a sequence of discs.
 
 We draw N discs on a plane. The discs are numbered from 0 to N − 1. A zero-indexed array A of N non-negative integers, specifying the radiuses of the discs, is given. The J-th disc is drawn with its center at (J, 0) and radius A[J].
 
